@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId = "com.checkout.risk_sdk_android_example"
-        minSdk = 21
+        minSdk = 24
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
